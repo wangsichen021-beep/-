@@ -16,4 +16,3 @@ summary.json
 best.pt
 last.pt
 learning_curves.png
-
